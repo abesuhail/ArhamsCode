@@ -1,0 +1,27 @@
+.title {
+	text-align:center;
+	font-size:120px;
+	font-family: 'Erica One', cursive;
+	color: #D49C49;
+}
+.correct {
+	color:green;
+}
+
+.incorrect {
+	color:red;
+}
+
+h1.correct, h1.incorrect {
+	width:250px;
+	font-family: 'Erica One', cursive;
+}
+h4 {
+	font-family: 'Ceviche One', cursive;
+	font-size: 36px;
+	color: #D49C49;
+}
+body {
+	background-color: #A7A6A2;
+	background-image: url(../images/quizbackground.jpg);
+}
